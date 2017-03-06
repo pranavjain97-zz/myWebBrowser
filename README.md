@@ -8,5 +8,4 @@ Enjoy the <b> 'Browser Pro'</b>. <br>
 
 ###If it doesnt run on your machine- 
 
-I have provided the source code. 
-You can run it using your own preffered Framework. 
+You can clone this Git repository and run the mybrowsermain class. 
